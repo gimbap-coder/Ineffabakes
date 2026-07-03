@@ -886,3 +886,8 @@ grid-template-columns:1fr;
     align-items: flex-start;
   }
 }
+@media (max-width: 768px) {
+  .flavors h2 {
+    display: none !important;
+  }
+}
