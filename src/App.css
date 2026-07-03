@@ -891,3 +891,19 @@ grid-template-columns:1fr;
     display: none !important;
   }
 }
+@media (max-width: 768px) {
+  .flavors h2,
+  .preorder h2,
+  .gallery h2 {
+    display: none !important;
+  }
+
+  .section-subtitle {
+    max-width: 90% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    font-size: 1.6rem !important;
+    line-height: 1.35 !important;
+    overflow-wrap: break-word !important;
+  }
+}
