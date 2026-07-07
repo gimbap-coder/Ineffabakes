@@ -10,7 +10,7 @@ function App() {
     <main>
       <div className="announcement">
         🍪 Fresh This Week • <div className="announcement">
-  🍪 THIS WEEK'S COOKIE DROP IS LIVE • Reserve your box before they're gone!
+  🍪 Preorders are opening soon.
 </div>
       </div>
 
