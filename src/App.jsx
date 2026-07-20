@@ -9,11 +9,7 @@ function App() {
   return (
     <main>
       <div className="announcement">
-        🍪 Fresh This Week • <div className="announcement">
-  <div className="announcement">
-  🍪 Preorders will open next week!
-</div>
-</div>
+        🍪 Fresh This Week • Preorder are going to open next week!
       </div>
 
       <header className="site-header">
